@@ -8,7 +8,7 @@ function loadData() {
     let $greeting = $('#greeting');
     let $street = $('#street');
     let $city = $('#city');
-    let nytAPIKey = 'ba55b8cef014409da767732884be531b'
+    let nytAPIKey = 'YOUR_API_KEY';
 
     // clear out old data before new request
     $wikiElem.text("");
